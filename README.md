@@ -1,6 +1,10 @@
 # youtube-sampler
 Randomly sampling YouTube videos
 
+# Requirements
+- Python 3.12 (`brew install python` or the Windows way via MS Store)
+- FFMPEG (`brew install ffmpeg` or the Windows way via ffmpeg website)
+
 # Installation
 `pip3 install -r requirements.txt -t ./python_modules`
 
